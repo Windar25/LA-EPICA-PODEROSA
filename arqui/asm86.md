@@ -11,7 +11,7 @@
 
 ---
 ### Seccion `.data`
-- Aqui se colocan las variables inciales
+- Aqui se colocan las variables iniciales
 
 |Declaración|Significado|
 |-----------|-----------|
